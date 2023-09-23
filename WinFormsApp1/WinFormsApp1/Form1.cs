@@ -5,6 +5,7 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("54");
         }
     }
 }
